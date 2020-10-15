@@ -1,0 +1,15 @@
+body{
+	margin: 56px;
+}
+p{margin:0px}
+div{}
+.c1{color: blue}
+.c2{color: red}
+.c3{color: yellow}
+.c4{color: green}
+.d1{margin-bottom: 13px;background-color: white, widht: 20px;}
+.d2{margin-bottom: 10px;}
+.d3{margin-bottom: 4px; margin-right: auto; margin-left: auto;}
+.d4{margin-bottom: 4px;font-size: 25px;}
+.d5{margin-bottom: 10px;font-size: 10px;}
+.d6{color: white;background-color: green;width: 613px;height: 50px;margin-right: auto;margin-left: auto;font-size: 25px;}
